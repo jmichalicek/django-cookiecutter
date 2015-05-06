@@ -1,0 +1,1 @@
+This will be turned into a cookiecutter config for my django projects
